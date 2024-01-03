@@ -1,4 +1,4 @@
-Olá, me chamo Laura! 😊
+Olá, me chamo Laura! 😊👋
 
 Seja bem-vinda ao meu perfil do GitHub! Aqui está um breve resumo sobre mim:
 
@@ -28,7 +28,7 @@ Minhas habilidade em **Devops**
 [![Linux Badge](https://img.shields.io/badge/-Linux-orange?style=flat-square&logo=Linux&logoColor=white&link=https://www.linux.org/)](https://www.linux.org/)
 
 
-
-
-
 [![Lauragfc's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauragfc)](https://github.com/lauragfc/github-readme-stats)
+
+
+![](https://komarev.com/ghpvc/?username=your-github-lauragfc)
