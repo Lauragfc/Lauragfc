@@ -14,7 +14,7 @@ E aqui estão algumas das minhas habilidades em **Redes de Computadores**:
 
 - **Hard Skills**: Configuração de roteadores, switches, firewalls, protocolos de rede, segurança de rede, gerenciamento de rede.
 
-Minhas habilidade em **Devops**
+Minhas habilidades em **Devops**
 
 - **Hard Skills**: Linux, Docker, Ansible, Vagrant, Terraform, Shell Script.
 
